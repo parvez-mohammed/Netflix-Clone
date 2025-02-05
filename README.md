@@ -1,5 +1,2 @@
 # Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This is a clone of Netflix. The resources used in this are taken from the netflix website instead of downloading locally so some resources might not be working as expected.
